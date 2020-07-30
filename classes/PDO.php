@@ -1,14 +1,14 @@
 ﻿<?
 //имя базы
-$dbn = 'u0181528_bot';
+$dbn = 'd6idli4g98j9lu';
 //имя сервера
-$dbh = 'localhost';
+$dbh = 'ec2-54-247-71-245.eu-west-1.compute.amazonaws.com';
 //порт
-$dbr = '3306';
+$dbr = '5432';
 //имя пользователя
-$dbu = 'u0181528_bot';
+$dbu = 'qcayoyioybukio';
 //пароль
-$dbp = '9вавававаававoh';
+$dbp = 'c1f2aaf5ba994380d562c9346a33c81b0775fd9d3f891f889acf09f1f0d2278c';
 
   ob_start();
   session_name('sid');
