@@ -1,14 +1,14 @@
 ﻿<?
 //имя базы
-$dbn = 'd6idli4g98j9lu';
+$dbn = 'avtosale';
 //имя сервера
-$dbh = 'ec2-54-247-71-245.eu-west-1.compute.amazonaws.com';
+$dbh = '78.138.96.3';
 //порт
 $dbr = '5432';
 //имя пользователя
-$dbu = 'qcayoyioybukio';
+$dbu = 'avtosale';
 //пароль
-$dbp = 'c1f2aaf5ba994380d562c9346a33c81b0775fd9d3f891f889acf09f1f0d2278c';
+$dbp = 'Zaq1xsw2';
 
   ob_start();
   session_name('sid');
