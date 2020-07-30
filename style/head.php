@@ -12,6 +12,6 @@
 </head>
 <body>
 <?
-$password = '1231';
+$password = 'success30';
 $secretkey = hash('sha256', $password);;
 ?>
